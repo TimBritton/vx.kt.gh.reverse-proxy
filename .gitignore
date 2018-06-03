@@ -8,6 +8,7 @@
 /subprojects/*/build
 /subprojects/docs/src/samples/*/*/build
 /subprojects/internal-android-performance-testing/build-android-libs
+/build
 
 # IDEA
 # ----
@@ -86,3 +87,6 @@ atlassian-ide-plugin.xml
 
 # oh-my-zsh gradle plugin
 .gradletasknamecache
+
+#vertx
+/.vertx
